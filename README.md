@@ -9,3 +9,5 @@ Clicked the Load Data button and pulling the data.
 
 Forecastin sales based on time series and LSTM algorithm. 
 ![LSTM](https://github.com/zeynepdilara/forecast_app/assets/74096232/2b1e58e4-1d55-483e-a422-348810a51447)
+
+Working videos.
